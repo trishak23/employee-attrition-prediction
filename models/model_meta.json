@@ -1,0 +1,17 @@
+{
+  "best_model": "Logistic Regression",
+  "cv_roc_auc": {
+    "Logistic Regression": 0.7404000081660168,
+    "Random Forest": 0.7224793021133897,
+    "Gradient Boosting": 0.6980401639766107
+  },
+  "threshold": 0.22,
+  "test_roc_auc": 0.796,
+  "test_pr_auc": 0.494,
+  "test_precision": 0.397,
+  "test_recall": 0.598,
+  "test_f1": 0.477,
+  "attrition_rate_test": 0.162,
+  "n_train": 2400,
+  "n_test": 600
+}
